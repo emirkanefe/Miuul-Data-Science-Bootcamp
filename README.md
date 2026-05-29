@@ -6,3 +6,5 @@
 * **07-Feature-Engineering**
 * **08-Machine-Learning**
 * **09-Advanced-Tree-Based-Models**
+
+* https://www.kaggle.com/datasets/emirkanefe/miuul-data-science-and-ai-bootcamp-datasets
