@@ -219,6 +219,12 @@ __marimo__/
 
 # Veri setlerini engelle
 **/datasets/
+**/case_data/
 *.csv
 *.xlsx
 *.zip
+*.pkl
+*.png
+
+
+
